@@ -50,7 +50,7 @@
 <header>
   <h1>PREMIUM SUN TINT</h1>
   <p>열차단 · 프라이버시 · 고급감성</p>
-  <a class="btn" href="tel:01012345678">전화 문의</a>
+  <a class="btn" href="tel:01039730209">전화 문의</a>
 </header>
 
 <section>
